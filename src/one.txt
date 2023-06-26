@@ -1,1 +1,5 @@
 adding change to check
+
+changes for staging
+
+changes for unstaged
